@@ -4,7 +4,7 @@
 - src: 'https://github.com/MayNiklas/ansible-ssh.git'
   name: ansible-ssh
   scm: git
-- src: 'https://github.com/MayNiklas/ansible-osx_defaults.git'
+- src: 'https://github.com/User12323/ansible-osx_defaults.git'
   name: ansible-osx_defaults
   scm: git
 - src: 'https://github.com/MayNiklas/ansible-homebrew.git'
