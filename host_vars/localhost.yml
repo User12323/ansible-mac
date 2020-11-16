@@ -9,7 +9,7 @@ ssh_comment: macbook
 
 configure_git: yes
 git_mail: user@example.com
-git_name: MayNiklas
+git_name: User12323
 git_editor: "subl -n -w"
 
 configure_brew: true
@@ -28,25 +28,18 @@ homebrew_apps:
   - firefox
   - chromium
   - tor-browser
-  - adobe-creative-cloud 
   - jetbrains-toolbox
   - github
   - spotify
   - vlc
-  - obs
-  - parsec
   - plex
   - ultimaker-cura
   - sublime-text
-  - filebot
-  - cyberduck
   - forklift
   - balenaetcher
   - cleanmymac
   - synology-drive
-  - wacom-tablet
   - yubico-authenticator
-  - eizo-colornavigator
   - monitorcontrol
   - vmware-fusion
 
@@ -73,7 +66,7 @@ mas_apps:
   - { name: Microsoft Excel, id: 462058435 }
   - { name: Microsoft Remote Desktop, id: 1295203466 }
   - { name: Magnet, id: 441258766 }
-  - { name: Parcel - Delivery Tracking, id: 639968404 }
+
 
 
 
