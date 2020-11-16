@@ -24,6 +24,8 @@ homebrew_apps:
   - telegram
   - teamspeak-client
   - whatsapp
+  - slack
+  - mattermost
   - docker
   - firefox
   - chromium
@@ -42,6 +44,26 @@ homebrew_apps:
   - yubico-authenticator
   - monitorcontrol
   - vmware-fusion
+  - onedrive
+  - arduino
+  - battle.net
+  - discord
+  - geogebra
+  - inkscape
+  - intel-power-gadget
+  - libreoffice
+  - owncloud
+  - skype
+  - vivaldi
+  - webex-meetings
+  - zoom
+  - Mumble
+  
+  
+  
+  
+  
+   
 
 homebrew_packages:
   - mas
@@ -64,8 +86,11 @@ mas_apps:
   - { name: Twitter, id: 1482454543 }
   - { name: WireGuard, id: 1451685025 }
   - { name: Microsoft Excel, id: 462058435 }
+  - { name: Microsoft PowerPoint, id: 462062816 }
+  - { name: Microsoft Word, id: 462062816 }
   - { name: Microsoft Remote Desktop, id: 1295203466 }
   - { name: Magnet, id: 441258766 }
+  
 
 
 
