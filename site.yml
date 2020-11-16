@@ -8,7 +8,7 @@
       when: configure_ssh
     - role: ansible-osx_defaults
       when: configure_osx
-    - role: ansible-homebrew
-      when: configure_brew
     - role: ansible-mas
       when: configure_mas
+    - role: ansible-homebrew
+      when: configure_brew
